@@ -2,7 +2,7 @@ repo_name: jadenblack/panel
 report_id: be0f6c579f62f34b4d718a5566d77da5
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T02:26:19+00:00'
+timestamp: '2024-01-05T08:23:20+00:00'
 requested_by: philippjfr
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -50,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -60,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: Preact
   description: Fast 3kb alternative to React with the same ES6 API
@@ -83,6 +87,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-08-23 12:15:11.000000000 Z
@@ -94,6 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/codecov.yml
   detection_source: codecov.yml
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-09-04 02:58:04.000000000 Z
@@ -106,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/panel/package.json
   detection_source: panel/package.json
   last_updated_by: Mateusz Paprocki
   last_updated_on: 2019-10-23 13:36:19.000000000 Z
@@ -117,6 +124,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -126,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/.github/workflows/build.yaml
   detection_source: ".github/workflows/build.yaml"
   last_updated_by: Maxime Liquet
   last_updated_on: 2022-10-19 09:22:29.000000000 Z
@@ -137,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Containers as a Service
   image_url: https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/examples/apps/django_multi_apps/requirements.txt
   detection_source: examples/apps/django_multi_apps/requirements.txt
   last_updated_by: Pedro López
   last_updated_on: 2022-04-28 15:36:50.000000000 Z
@@ -148,6 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-08-23 12:15:11.000000000 Z
@@ -160,6 +171,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/6969/zopeHIres_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/examples/apps/django_multi_apps/requirements.txt
   detection_source: examples/apps/django_multi_apps/requirements.txt
   last_updated_by: Stephane Junod
   last_updated_on: 2020-01-28 15:21:27.000000000 Z
@@ -171,6 +183,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-08-23 12:15:11.000000000 Z
@@ -182,6 +195,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/examples/apps/django_multi_apps/requirements.txt
   detection_source: examples/apps/django_multi_apps/requirements.txt
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-04 11:07:40.000000000 Z
@@ -194,6 +208,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -203,6 +218,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-08-23 12:15:11.000000000 Z
@@ -229,6 +245,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/panel
   detection_source: Repo Metadata
 - name: Automat
   description: Self-service finite-state machines for the programmer on the go
@@ -380,6 +397,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20010/default_01ad0299ca69c7b3e7fb7fee7a49e261bc9d294a.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/lite/requirements.txt
   detection_source: lite/requirements.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2022-11-16 13:24:37.000000000 Z
@@ -392,6 +410,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20045/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Maxime Liquet
   last_updated_on: 2022-04-20 09:10:49.000000000 Z
@@ -559,6 +578,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/lite/requirements.txt
   detection_source: lite/requirements.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2022-11-16 13:24:37.000000000 Z
@@ -571,6 +591,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/binder/jupyter-panel-apps-server/setup.py
   detection_source: binder/jupyter-panel-apps-server/setup.py
   last_updated_by: Marc Skov Madsen
   last_updated_on: 2021-05-12 09:50:28.000000000 Z
@@ -583,6 +604,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20376/default_e6c4d6b6295b7d6934a5e16b2a16a7aa07991d65.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/lite/requirements.txt
   detection_source: lite/requirements.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2023-10-31 13:29:06.000000000 Z
@@ -595,6 +617,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20035/default_a3692729f5b4ca7eb94218522ed4260bba4a5c15.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/lite/requirements.txt
   detection_source: lite/requirements.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2022-11-16 13:24:37.000000000 Z
@@ -649,6 +672,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20081/default_37d5d9a0fd58ccb83ff41d58247ae840c789ee9e.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/lite/requirements.txt
   detection_source: lite/requirements.txt
   last_updated_by: Philipp Rudiger
   last_updated_on: 2022-11-16 13:24:37.000000000 Z
@@ -675,6 +699,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20366/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/binder/requirements.txt
   detection_source: binder/requirements.txt
   last_updated_by: Marc Skov Madsen
   last_updated_on: 2021-05-12 09:50:28.000000000 Z
@@ -729,6 +754,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20748/default_0f5986a8703a98062d3c15b09649921082c25266.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/binder/requirements.txt
   detection_source: binder/requirements.txt
   last_updated_by: Marc Skov Madsen
   last_updated_on: 2021-05-12 09:50:28.000000000 Z
@@ -783,6 +809,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Simon Høxbro Hansen
   last_updated_on: 2023-10-17 07:58:26.000000000 Z
@@ -851,6 +878,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Maxime Liquet
   last_updated_on: 2022-12-14 17:14:01.000000000 Z
@@ -877,6 +905,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19875/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/jadenblack/panel/blob/main/setup.py
   detection_source: setup.py
   last_updated_by: Simon Høxbro Hansen
   last_updated_on: 2022-12-21 17:00:56.000000000 Z
